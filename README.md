@@ -12,16 +12,23 @@ To run the game you need to install LispMe, resource file 2048DB.prc and source 
 
 ![Step one](https://github.com/naa/2048-palm/raw/master/screens/1.png)
 
-Then create new session, load "Standard library" memo, mylib.scm and 2048.scm files
-and call function (go).
+Then create new session:
 
 ![Step two](https://github.com/naa/2048-palm/raw/master/screens/2.png)
-
 
 You can also create icon for the session in session preferences and run the game
 from Palm launcher as an ordinary Palm application.
 
-See "screens" folder for details.
+Then load "Standard library" memo, mylib.scm and 2048.scm files:
+
+![Step three](https://github.com/naa/2048-palm/raw/master/screens/3.png)
+![Step four](https://github.com/naa/2048-palm/raw/master/screens/4.png)
+
+and eval function call "(go)":
+
+![Step five](https://github.com/naa/2048-palm/raw/master/screens/5.png)
+
+![Final step](https://github.com/naa/2048-palm/raw/master/screens/6.png)
 
 
 If you want to edit code you can use any PalmDoc editor for PalmOS, e.g. SiEd, SrcEdit.
