@@ -3,6 +3,8 @@
 
 2048 for Palm OS in Scheme (lispme)
 
+![Actual device](https://github.com/naa/2048-palm/raw/master/screens/clie.jpg)
+
 I have written it several weeks ago after seeing original game on Hacker News.
 
 Scheme interpreter/compiler for Palm OS is LispMe: http://lispme.de
