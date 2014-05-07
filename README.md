@@ -5,15 +5,18 @@
 
 I have written it several weeks ago after seeing original game on Hacker News.
 
-Scheme interpreter/compiler for Palm OS is lispme http://lispme.de
+Scheme interpreter/compiler for Palm OS is LispMe: http://lispme.de
 
 To run the game you need to install LispMe, resource file 2048DB.prc and source files
 2048.scm.pdb and mylib.scm.pdb to your PDA or emulator.
 
+![Step one](https://github.com/naa/2048-palm/raw/master/screens/1.png)
+
 Then create new session, load "Standard library" memo, mylib.scm and 2048.scm files
 and call function (go).
 
-![Step one](https://github.com/naa/2048-palm/raw/master/screens/1.png)
+![Step two](https://github.com/naa/2048-palm/raw/master/screens/2.png)
+
 
 You can also create icon for the session in session preferences and run the game
 from Palm launcher as an ordinary Palm application.
